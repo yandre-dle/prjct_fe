@@ -1,0 +1,45 @@
+body {
+    /* font-family: 'roboto'; */
+    margin:0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    /* background-image: url('http://wallpapers.ae/wp-content/uploads/2014/10/Black-Pattern-Background-Wallpaper.jpg'); */
+    /* background-color: silver; */
+    background-size: "cover";
+    background-repeat: "no-repeat";
+}
+
+.bgthird {
+    height: 400px;
+    /* background-image: url("http://cdn.laptopmag.com/images/uploads/5586/g/lipad-pro-015.jpg"); */
+    background-image: url("https://res.cloudinary.com/hihi/image/upload/v1556777140/IMG_20190205_230323_rsnsur.jpg");
+    background-repeat: no-repeat;
+    background-position: -75px -65px;   
+}
+
+.firstBackground {
+    background-image: url("https://res.cloudinary.com/hihi/image/upload/v1556777140/IMG_20190205_225639_mnqhyq.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: -28px 0
+
+}
+
+.firstBackground2 {
+    background-image: url("https://res.cloudinary.com/hihi/image/upload/v1556776508/IMG_20190205_230300_hqhe8d.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+.full-width-div {
+    position: absolute;
+    width: 100%;
+    left: 0;
+}
+
+.tables {
+    margin: auto;
+    width: 50% !important; 
+ }
